@@ -1,0 +1,1 @@
+service { 'firewalld' : ensure => 'stopped' , }
